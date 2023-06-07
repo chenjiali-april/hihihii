@@ -143,3 +143,22 @@ module.exports = {
   //   }
   // }
 };
+jjjjjj
+
+jjjjjj
+hhhhh
+ //   adapter: {
+  //     name: "indexeddb",
+  //     settings: {
+  //       directory: ".db"
+  //     }
+  //   }
+  // }
+   //   adapter: {
+  //     name: "indexeddb",
+  //     settings: {
+  //       directory: ".db"
+  //     }
+  //   }
+hhhhh
+  // }
